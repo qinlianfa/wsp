@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WspActivity!</string>
+    <string name="app_name">Wsp</string>
+      <string name="scan_db">/mnt/sdcard/ArcGIS/Campus/scan.db</string>
+      <string name="wificonnectinfo">      </string>
+      <string name="longu">welcome to longhu</string>
+      <drawable name="white">#FFFFFF</drawable>
+      <drawable name="black">#000000</drawable>
+</resources>
